@@ -33,12 +33,4 @@ curl -X POST http://127.0.0.1:8000/users/  \
 -d '{"username": "testuser", "email": "testuser@example.com", "password": "test123"}'
 ```
 
-### 3. **requirements.txt**  
-если ещё не создал — сделай:
-
-```bash
-pip freeze > requirements.txt
-```
-
-
 
